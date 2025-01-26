@@ -1,0 +1,14 @@
+{
+  "name": "Astrelis Token List",
+  "logoURI": "https://github.com/clevysson/Astrelis/blob/main/Astrelis.jpg",
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x49Ca311DFC10aF8f9c2fA4d1732D087b35aC4CCE",
+      "symbol": "ARL",
+      "name": "Astrelis",
+      "decimals": 18,
+      "logoURI": "https://github.com/clevysson/Astrelis/blob/main/Astrelis.jpg"
+    }
+  ]
+}
